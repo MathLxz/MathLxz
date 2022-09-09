@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="github.com/MathMrx">
-  <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=mathmrx&layout=compact&theme=midnight-purple&show_icons=true&hide=contribs"/>
-  <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathmrx&layout=compact&theme=midnight-purple"/>
+  <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=mathlxz&layout=compact&theme=midnight-purple&show_icons=true&hide=contribs"/>
+  <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathmlxz&layout=compact&theme=midnight-purple"/>
 </div>
 
   <div style="display: inline_block"> <br>  
